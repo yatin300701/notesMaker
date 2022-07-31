@@ -1,0 +1,30 @@
+.listItem {
+  display: flex;
+  justify-content: space-between;
+}
+.written-notes {
+  width: 750px;
+  margin: 15px 0;
+}
+.edit {
+  margin: 0 1rem;
+}
+.editItem {
+  width: 150px;
+}
+.edit {
+  color: white;
+  background-color: black;
+  width: 50px;
+}
+.del {
+  color: white;
+  background-color: black;
+  width: 50px;
+}
+.listItem {
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  padding: 0px 10px;
+}
